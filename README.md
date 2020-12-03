@@ -21,6 +21,8 @@ Make sure you have .NET Core currently installed on the machine you plan to run 
 
 ### Demo
 
+![](https://imgur.com/gGKEkTf.png)
+
 ## Contributing
 
 #### Bug Reports & Feature Requests
